@@ -1,0 +1,483 @@
+﻿[
+    {
+        "id": 1,
+        "question": "What is the total sale order value of this month?",
+        "keywords": [
+            "total","sale","order","value","this month"
+        ],
+        "insight": "The total sale order value of the month December is 22.21 Crores."
+    },
+    {
+        "id": 2,
+        "question": "What is todays sale order value?",
+        "keywords": [
+            "sale","order","value","today"
+        ],
+        "insight": "The sale order value of today is 0."
+    },
+    {
+        "id": 3,
+        "question": "How many unregistered sale orders are there?",
+        "keywords": [
+            "unregistered","sale","order","count"
+        ],
+        "insight": "The count of unregistered sale orders for this financial year is 161."
+    },
+    {
+        "id": 4,
+        "question": "How many orders are waiting for packing?",
+        "keywords": [
+            "sale","order","waiting","packing","count"
+        ],
+        "insight": "The count of sale orders waiting for packing is 9."
+    },
+    {
+        "id": 5,
+        "question": "How many orders are waiting for Despatch?",
+        "keywords": [
+            "sale","order","waiting","despatch","count"
+        ],
+        "insight": "The count of sale orders waiting for despatch is 19."
+    },
+    {
+        "id": 6,
+        "question": "How many orders are waiting for invoice?",
+        "keywords": [
+            "sale","order","waiting","invoice","count"
+        ],
+        "insight": "The count of sale orders waiting for invoice is 6."
+    },
+    {
+        "id": 7,
+        "question": "How many orders are waiting for Reconciliation?",
+        "keywords": [
+            "sale","order","waiting","reconciliation","count"
+        ],
+        "insight": "The count of sale orders waiting for reconciliation is 21."
+    },
+    {
+        "id": 8,
+        "question": "Which week has the highest sale order value?",
+        "keywords": [
+            "week","highest","sale","order","value"
+        ],
+        "insight": "The week with the highest sale order value is week 21 with the amount value of 426 M."
+    },
+    {
+        "id": 9,
+        "question": "How many buyers are out of India buying from us?",
+        "keywords": [
+            "out","india","buying","country"
+        ],
+        "insight": "The count of buyers out of India buying from us is 7."
+    },
+    {
+        "id": 10,
+        "question": "Which is the top country that buys from us?",
+        "keywords": [
+            "top","country","buying","country","from"
+        ],
+        "insight": "The top country that buys from us is Russia with 28.6% of the total sale order value amounting to 91.19 Crores."
+    },
+    {
+        "id": 11,
+        "question": " who is the Top Buyer from us",
+        "keywords": [
+            "top","buyer","from","us"
+        ],
+        "insight": "The top buyer from us is Tdl Textiles with 28.6% of the total sale order value amounting to 91.19 Crores."
+    },
+    {
+        "id": 12,
+        "question": "Who is the second top buyer from us",
+        "keywords": [
+            "second","top","buyer","from","us"
+        ],
+        "insight": "The second top buyer from us is Valmart Exports with 23.7% of the total sale order value amounting to 75.66 Crores."
+    },
+    {
+        "id": 13,
+        "question": "Who is the third top buyer from us",
+        "keywords": [
+            "third","top","buyer","from","us"
+        ],
+        "insight": "The third top buyer from us is Adairs with 19.4% of the total sale order value amounting to 61.75 Crores."
+    },
+    {
+        "id": 14,
+        "question": "How many sale orders are from Export",
+        "keywords": [
+            "sale","order","export","count","summary"
+        ],
+        "insight": "There are 283 orders from export amoutning to 256 Crores."
+    },
+    {
+        "id": 15,
+        "question": " How many sale orders are from Local",
+        "keywords": [
+            "sale","order","local","count","summary"
+        ],
+        "insight": "There are 136 orders from local amoutning to 38.345 Crores."
+    },
+    {
+        "id": 16,
+        "question": " How many sale orders are from Interstate",
+        "keywords": [
+            "sale","order","interstate","count","summary"
+        ],
+        "insight": "There are 39 orders from interstate amoutning to 25.04 Crores."
+    },
+    {
+        "id": 17,
+        "question": " How many woven sale orders are there?",
+        "keywords": [
+            "sale","order","woven","count","summary"
+        ],
+        "insight": "There are 206 orders from woven amoutning to 198.52 Crores."
+    },
+    {
+        "id": 18,
+        "question": " How many Knitted sale orders are there?",
+        "keywords": [
+            "sale","order","knitted","count","summary"
+        ],
+        "insight": "There are 7 orders from knitted amoutning to 17.57 Crores."
+    },
+    {
+        "id": 19,
+        "question": " How many Sample sale order are there?",
+        "keywords": [
+            "sale","order","sample","count","summary"
+        ],
+        "insight": "There are 6 orders from sample amoutning to 1.34 Crores."
+    },
+    {
+        "id": 20,
+        "question": "How many Bulk sale order are there?",
+        "keywords": [
+            "sale","order","bulk","count","summary"
+        ],
+        "insight": "There are 452 orders from bulk amoutning to 317.82 Crores."
+    },
+    {
+        "id": 21,
+        "question": "How many overdue Shipments are there?",
+        "keywords": [
+            "overdue", "Shipments", "count", "summary"
+        ],
+        "insight": "There are 338 overdue shipments with quantity of 75.93 Lakh units and amounting to 328.13 Crores."
+    },
+    {
+        "id": 22,
+        "question": "How many scheduled shipments are there?",
+        "keywords": [
+            "scheduled", "shipments", "count", "summary"
+        ],
+        "insight": "There are 5 scheduled shipments with quantity of 25.60 thousand units and amounting to 18.13 Crores."
+    },
+    {
+        "id": 23,
+        "question": " How many completed Shipments are there?",
+        "keywords": [
+            "completed", "shipments", "count", "summary"
+        ],
+        "insight": "There are 30 completed shipments with 28 orders on time and 2 orders late."
+    },
+    {
+        "id": 24,
+        "question": "How many upcoming shipments are there?",
+        "keywords": [
+            "upcoming", "shipments", "count", "summary"
+        ],
+        "insight": "There are 4 upcoming shipments with quantity of 15 thousand units and amounting to 10.73 Crores."
+    },
+    {
+        "id": 25,
+        "question": "What is the total number of work orders in manufacturing?",
+        "keywords": ["manufacturing", "work order", "total", "count"],
+        "insight": "The total number of manufacturing work orders for the selected planning period is 293."
+    },
+    {
+        "id": 26,
+        "question": "How many manufacturing orders are currently running?",
+        "keywords": ["manufacturing", "orders", "running", "count"],
+        "insight": "There are 260 manufacturing orders currently in running status."
+    },
+    {
+        "id": 27,
+        "question": "How many manufacturing orders have been shipped?",
+        "keywords": ["manufacturing", "orders", "shipped", "count"],
+        "insight": "A total of 27 manufacturing orders have been shipped during the planning period."
+    },
+    {
+        "id": 28,
+        "question": "How many manufacturing orders are cancelled or unregistered?",
+        "keywords": ["manufacturing", "orders", "cancelled", "unregistered", "count"],
+        "insight": "There are 3 cancelled manufacturing orders and 3 unregistered manufacturing orders."
+    },
+    {
+        "id": 29,
+        "question": "How many orders are currently in Packing WIP status?",
+        "keywords": ["packing", "WIP", "manufacturing", "orders", "count"],
+        "insight": "There are 214 manufacturing orders currently in Work-In-Progress status at the Packing stage."
+    },
+    {
+        "id": 30,
+        "question": "How many manufacturing orders are critical across production stages?",
+        "keywords": ["manufacturing", "critical", "orders", "summary"],
+        "insight": "Critical orders are observed across multiple stages, including Packing (14), Final Packing Inspection (9), Cutting (3), Weaving (1), Yarn Dyeing (1), Purchase of Color Yarn (1), and Purchase of Greige Yarn (2)."
+    },
+    {
+        "id": 31,
+        "question": "Which manufacturing stage has the highest number of planned orders?",
+        "keywords": ["manufacturing", "stage", "highest", "planned", "orders"],
+        "insight": "The Packing stage has the highest number of planned manufacturing orders with a total of 235 orders."
+    },
+    {
+        "id": 32,
+        "question": "What is the total stock value across all categories?",
+        "keywords": ["stock", "total", "value", "summary"],
+        "insight": "The total stock value across yarn, fabric, finished goods, accessories, packing material, and stores is 270.76 Crores."
+    },
+    {
+        "id": 33,
+        "question": "What is the total yarn stock value and current status?",
+        "keywords": ["yarn", "stock", "value", "WIP", "inspection", "transit"],
+        "insight": "The total yarn stock value is 261.60 Crores, consisting of 257.87 Crores stock in hand, 3.28 Crores in WIP, 39.11 Lakhs under inspection, and 6.25 Lakhs in transit."
+    },
+    {
+        "id": 34,
+        "question": "What is the total fabric stock value and its breakdown?",
+        "keywords": ["fabric", "stock", "value", "breakdown"],
+        "insight": "The total fabric stock value is 5.20 Crores, with 4.14 Crores stock in hand, 40.12 Lakhs in WIP, 65.35 Lakhs under inspection, and 3 Thousand in transit."
+    },
+    {
+        "id": 35,
+        "question": "What is the finished goods stock value?",
+        "keywords": ["FG", "finished goods", "stock", "value"],
+        "insight": "The total finished goods stock value is 2.51 Crores, including 2.46 Crores stock in hand and minor quantities in WIP and inspection."
+    },
+    {
+        "id": 36,
+        "question": "Which yarn product contributes the highest stock value?",
+        "keywords": ["yarn", "product wise", "highest", "stock", "value"],
+        "insight": "The yarn product 160DYP contributes the highest stock value with 690.57 units amounting to 250.52 Crores."
+    },
+    {
+        "id": 37,
+        "question": "Which yarn category holds the highest inventory value?",
+        "keywords": ["yarn", "category wise", "highest", "inventory"],
+        "insight": "The yarn category 160 holds the highest inventory value with 690.57 units amounting to 250.52 Crores."
+    },
+    {
+        "id": 38,
+        "question": "Which supplier contributes the highest yarn stock quantity?",
+        "keywords": ["yarn", "supplier wise", "highest", "stock"],
+        "insight": "The highest yarn stock quantity is tagged under 'No Supplier', contributing 9.24 Lakhs quantity amounting to 4.61 Crores, indicating significant untagged or internal stock."
+    },
+    {
+        "id": 39,
+        "question": "What percentage of total stock value is contributed by yarn?",
+        "keywords": ["yarn", "stock", "percentage", "total value"],
+        "insight": "Yarn contributes approximately 96.7% of the total stock value, indicating that the majority of working capital is tied up in yarn inventory."
+    },
+    {
+        "id": 40,
+        "question": "How much stock value is currently blocked in WIP across all categories?",
+        "keywords": ["stock", "WIP", "blocked", "value"],
+        "insight": "The total stock value currently blocked in Work-In-Progress across yarn, fabric, finished goods, accessories, and packing material is approximately 3.75 Crores."
+    },
+    {
+        "id": 41,
+        "question": "How much stock is pending inspection across all categories?",
+        "keywords": ["stock", "inspection pending", "value", "summary"],
+        "insight": "Stock pending inspection amounts to approximately 1.06 Crores, primarily driven by yarn and fabric inventory awaiting quality clearance."
+    },
+    {
+        "id": 42,
+        "question": "Which warehouse holds the highest greige yarn quantity?",
+        "keywords": ["warehouse wise", "yarn", "greige", "highest", "quantity"],
+        "insight": "WS YARN WH 1 holds the highest greige yarn quantity with 20,885.258 kg valued at approximately 42.35 Lakhs."
+    },
+    {
+        "id": 43,
+        "question": "What is the split between colour yarn and greige yarn stock?",
+        "keywords": ["yarn", "stage wise", "colour", "greige", "split"],
+        "insight": "The yarn stock consists of approximately 8.56 Lakhs kg of colour yarn and 2.87 Lakhs kg of greige yarn, indicating a higher proportion of processed yarn."
+    },
+    {
+        "id": 44,
+        "question": "Which work order holds the highest yarn stock quantity?",
+    "keywords": ["yarn", "workorder wise", "highest", "quantity"],
+        "insight": "Work order WSIOAEB/24-25/000032 holds the highest yarn stock quantity at 4.75 Lakhs kg."
+    },
+    {
+        "id": 45,
+        "question": "How much yarn stock is not mapped to any supplier?",
+        "keywords": ["yarn", "supplier wise", "no supplier", "risk"],
+        "insight": "Approximately 9.24 Lakhs kg of yarn stock, valued at 4.61 Crores, is not mapped to any supplier, indicating a potential traceability and compliance risk."
+    },
+    {
+        "id": 46,
+        "question": "Which yarn certification category holds the highest stock quantity?",
+        "keywords": ["yarn", "certification wise", "highest", "quantity"],
+        "insight": "The NON ORGANIC certification category holds the highest yarn stock quantity, followed by ORGANIC yarn, indicating mixed compliance inventory."
+    },
+   {
+        "id": 47,
+        "question": "What is the total invoiced amount for shipped orders?",
+        "keywords": ["MIS", "P&L", "total", "invoiced", "amount"],
+        "insight": "The total invoiced amount for all shipped orders is the sum of invoiced values across all completed work orders in the selected period."
+    },
+    {
+        "id": 48,
+        "question": "Who is the top buyer based on invoiced amount?",
+        "keywords": ["top", "buyer", "invoiced", "amount", "MIS"],
+        "insight": "ABC Traders is the top buyer based on invoiced amount, driven by multiple high-value shipped work orders."
+    },
+    {
+        "id": 49,
+        "question": "Who is the second top buyer based on invoiced amount?",
+        "keywords": ["second", "top", "buyer", "invoiced", "amount"],
+        "insight": "Valmart Exports is the second top buyer based on invoiced amount during the selected period."
+    },
+    {
+        "id": 50,
+        "question": "Which buyer has the lowest profit percentage?",
+        "keywords": ["lowest", "profit", "percentage", "buyer", "MIS"],
+        "insight": "Anglo French Textiles records the lowest profit percentage among shipped orders, indicating margin pressure on specific work orders."
+    },
+    {
+        "id": 51,
+        "question": "Which work order has the highest profit with stock?",
+        "keywords": ["highest", "profit", "with stock", "work order"],
+        "insight": "Multiple work orders from ABC Traders report the highest profit with stock at 100%, indicating zero expenses and full margin realization."
+    },
+    {
+        "id": 52,
+        "question": "Which work order has the lowest profit with stock percentage?",
+        "keywords": ["lowest", "profit", "with stock", "percentage"],
+        "insight": "The work order FABRIC-BLR from Anglo French Textiles shows the lowest profit with stock percentage at approximately 20.95%."
+    },
+    {
+        "id": 53,
+        "question": "What is the total profit with stock for all shipped orders?",
+        "keywords": ["total", "profit", "with stock", "MIS", "summary"],
+        "insight": "The total profit with stock is calculated as the aggregate of closing stock profit across all shipped work orders for the period."
+    },
+    {
+        "id": 54,
+        "question": "What is the total profit without stock for all shipped orders?",
+        "keywords": ["total", "profit", "without stock", "MIS", "summary"],
+        "insight": "The total profit without stock represents the realized profit after excluding stock valuation and is derived by aggregating profit without stock values across shipped orders."
+    },
+    {
+        "id": 55,
+        "question": "Which buyer has the highest average profit percentage?",
+        "keywords": ["highest", "average", "profit", "percentage", "buyer"],
+        "insight": "ABC Traders has the highest average profit percentage, consistently achieving near 100% margins across multiple shipped work orders."
+    },
+    {
+        "id": 56,
+        "question": "Are there any shipped orders with zero invoiced amount?",
+        "keywords": ["zero", "invoiced", "amount", "shipped", "orders"],
+        "insight": "Yes, the Sample Order from TDL Textiles has a shipped status but shows zero invoiced amount and zero profit."
+    },
+
+    {
+        "id": 57,
+        "question": "What is the total budgeted amount for all work orders?",
+        "keywords": ["budget", "total", "amount", "MIS", "summary"],
+        "insight": "The total budgeted amount across all work orders is ₹2,339.82 Crores."
+    },
+    {
+        "id": 58,
+        "question": "What is the total actual cost incurred against the budget?",
+        "keywords": ["actual", "cost", "total", "budget analysis"],
+        "insight": "The total actual cost incurred is ₹1,292.11 Crores against the overall budget."
+    },
+    {
+        "id": 59,
+        "question": "What is the overall budget variance?",
+        "keywords": ["budget", "variance", "overall", "MIS"],
+        "insight": "The overall budget variance is a negative ₹291.35 Crores, indicating that actual costs exceeded planned values."
+    },
+    {
+        "id": 60,
+        "question": "Which work order has the highest budget overrun?",
+        "keywords": ["highest", "budget", "overrun", "work order"],
+        "insight": "The work order GARMENTS-003 (Pixel Textile Clothing Pvt Ltd) shows the highest budget overrun, with actual cost significantly exceeding the planned budget."
+    },
+    {
+        "id": 61,
+        "question": "Which work order has the highest budget underrun?",
+        "keywords": ["budget", "underrun", "highest", "savings"],
+        "insight": "The work order WSIOALB/24-25/000019 (Stock Order) shows the highest budget underrun, achieving significant cost savings compared to the budget."
+    },
+    {
+        "id": 62,
+        "question": "Who is the top buyer by budgeted value?",
+        "keywords": ["top", "buyer", "budgeted", "value"],
+        "insight": "TDL Textiles is the top buyer by total budgeted value across all work orders."
+    },
+    {
+        "id": 63,
+        "question": "Which buyer has the highest negative budget variance?",
+        "keywords": ["buyer", "highest", "negative", "budget variance"],
+        "insight": "Pixel Textile Clothing Pvt Ltd has the highest negative budget variance, indicating substantial budget overruns on specific garment orders."
+    },
+    {
+        "id": 64,
+        "question": "How many work orders exceeded their budget?",
+        "keywords": ["count", "work orders", "exceeded", "budget"],
+        "insight": "Multiple work orders exceeded their planned budgets, particularly in garments and approval test categories."
+    },
+    {
+        "id": 65,
+        "question": "Which work order has the lowest budget utilization percentage?",
+        "keywords": ["lowest", "budget utilization", "percentage"],
+        "insight": "Work orders such as WSIOAEB/25-26/000162 show the lowest budget utilization, consuming less than 1% of the allocated budget."
+    },
+    {
+        "id": 66,
+        "question": "Are there any work orders with zero budget utilization?",
+        "keywords": ["zero", "budget utilization", "work orders"],
+        "insight": "Yes, a few work orders including sample and test entries show zero budget utilization with no actual cost incurred."
+    },
+   {
+        "id": 67,
+        "question": "What are the top selling products by value?",
+        "keywords": ["popular products", "top selling", "value", "sales"],
+        "insight": "The top selling product by value is 60x60/165x104/1=66\" fabric with a sales value of 17.10 Crores, followed by Plain Weave Fabrics and Cotton Shirt Fabric."
+    },
+    {
+        "id": 68,
+        "question": "Which product has the highest sales quantity?",
+        "keywords": ["product", "highest", "quantity", "sales"],
+        "insight": "The product 60x60/165x104/1=66\" has the highest sales quantity at 22.60 thousand units."
+    },
+    {
+        "id": 69,
+        "question": "What is the total sales value of top 10 popular products?",
+        "keywords": ["top 10", "popular products", "total", "sales value"],
+        "insight": "The combined sales value of the top popular products is driven primarily by high-volume fabric categories, totaling over 19 Crores."
+    },
+    {
+        "id": 70,
+        "question": "Which certification category contributes the highest sales value?",
+        "keywords": ["certification wise", "highest", "sales value"],
+        "insight": "The ORGANIC certification category contributes the highest sales value with a combined amount of 22.21 Crores."
+    },
+    {
+        "id": 71,
+        "question": "How many fabric and finished goods orders were placed?",
+        "keywords": ["fabric", "FG", "orders", "count", "sales"],
+        "insight": "There are 11 fabric orders amounting to 21.23 Crores and 36 finished goods orders amounting to 97.59 Lakhs."
+    },
+    {
+        "id": 72,
+        "question": "What is the split between buyer orders and stock orders?",
+        "keywords": ["buyer", "stock", "orders", "split"],
+        "insight": "Buyer orders account for 47 orders valued at 22.21 Crores, while there are no stock orders recorded for this period."
+    }
+]
