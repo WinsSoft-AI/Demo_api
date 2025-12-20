@@ -327,7 +327,7 @@
         "id": 47,
         "question": "What is the total invoiced amount for shipped orders?",
         "keywords": ["MIS", "P&L", "total", "invoiced", "amount"],
-        "insight": "The total invoiced amount for all shipped orders is the sum of invoiced values across all completed work orders in the selected period."
+        "insight": "The total invoiced amount for all shipped orders is 3.52 Crores With 25 Invoices"
     },
     {
         "id": 48,
@@ -369,7 +369,7 @@
         "id": 54,
         "question": "What is the total profit without stock for all shipped orders?",
         "keywords": ["total", "profit", "without stock", "MIS", "summary"],
-        "insight": "The total profit without stock represents the realized profit after excluding stock valuation and is derived by aggregating profit without stock values across shipped orders."
+        "insight": "The total profit without stock is amounting to 2.89 Crores when thee STock is included it amounts to 3.03 crore with 25 Invoices"
     },
     {
         "id": 55,
@@ -448,19 +448,19 @@
         "id": 67,
         "question": "What are the top selling products by value?",
         "keywords": ["popular products", "top selling", "value", "sales"],
-        "insight": "The top selling product by value is 60x60/165x104/1=66\" fabric with a sales value of 17.10 Crores, followed by Plain Weave Fabrics and Cotton Shirt Fabric."
+        "insight": "The top selling product by value is Popplin Cotton Died Fbric with a sales value of 59.30 Crores, followed by Single Dhoti and Plain Weave Fabrics."
     },
     {
         "id": 68,
         "question": "Which product has the highest sales quantity?",
         "keywords": ["product", "highest", "quantity", "sales"],
-        "insight": "The product 60x60/165x104/1=66\" has the highest sales quantity at 22.60 thousand units."
+        "insight": "The product PLain Weave Fabrics has the highest sales quantity at 10.75 L units."
     },
     {
         "id": 69,
         "question": "What is the total sales value of top 10 popular products?",
         "keywords": ["top 10", "popular products", "total", "sales value"],
-        "insight": "The combined sales value of the top popular products is driven primarily by high-volume fabric categories, totaling over 19 Crores."
+        "insight": "The combined sales value of the top popular products is driven primarily by high-volume fabric categories with 25.12L Quantity, totaling over 238.71 Crores."
     },
     {
         "id": 70,
