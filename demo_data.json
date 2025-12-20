@@ -369,7 +369,7 @@
         "id": 54,
         "question": "What is the total profit without stock for all shipped orders?",
         "keywords": ["total", "profit", "without stock", "MIS", "summary"],
-        "insight": "The total profit without stock is amounting to 2.89 Crores when thee STock is included it amounts to 3.03 crore with 25 Invoices"
+        "insight": "The total profit without stock is amounting to 2.89 Crores when the Stock is included it amounts to 3.03 crore with 25 Invoices"
     },
     {
         "id": 55,
