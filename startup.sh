@@ -47,7 +47,9 @@ WorkingDirectory=$APP_DIR
 ExecStart=$APP_DIR/venv/bin/gunicorn main:app \
     -k uvicorn.workers.UvicornWorker \
     --bind 0.0.0.0:$PORT \
-    --workers 3
+    --workers 2 \
+    --access-logfile - \
+    --error-logfile -
 Restart=always
 RestartSec=5
 

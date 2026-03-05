@@ -1,0 +1,421 @@
+﻿[
+  {
+    "id": 1,
+    "question": "What is today's total sale order value?",
+    "keywords": ["today","sale","order","value","daily","sales"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total sale order value recorded for today is 0.00."
+  },
+  {
+    "id": 2,
+    "question": "What is the total sale order value for this month?",
+    "keywords": ["this month","sale","order","value","monthly","sales"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total sale order value for the current month is 0.00."
+  },
+  {
+    "id": 3,
+    "question": "How has sales performance changed compared to last month?",
+    "keywords": ["sales","dropped","last month","comparison","performance"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, sales have dropped by 0% compared to last month, indicating no change in performance."
+  },
+  {
+    "id": 4,
+    "question": "What is the total sales value for the selected financial year?",
+    "keywords": ["financial year","total sales","value","annual","summary"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total sales value is 19.97 Lakhs."
+  },
+  {
+    "id": 5,
+    "question": "Which country contributes the highest sales value?",
+    "keywords": ["country","highest","sales","region wise"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, India contributes 100% of the total sales value amounting to 19.97 Lakhs."
+  },
+  {
+    "id": 6,
+    "question": "Who is the top buyer based on sales value?",
+    "keywords": ["top","buyer","sales","value","highest"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited is the top buyer contributing 25.0% of total sales with a value of 4.99 Lakhs across 2 orders."
+  },
+  {
+    "id": 7,
+    "question": "Who is the second top buyer based on sales value?",
+    "keywords": ["second","top","buyer","sales","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Ambika Cotton Mills is the second top buyer contributing 20.3% of total sales with 4.06 Lakhs across 2 orders."
+  },
+  {
+    "id": 8,
+    "question": "Which buyer has placed the highest number of orders?",
+    "keywords": ["buyer","highest","orders","count"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited and Ambika Cotton Mills have placed the highest number of orders with 2 orders each."
+  },
+  {
+    "id": 9,
+    "question": "Which buyer contributes the lowest sales value?",
+    "keywords": ["lowest","buyer","sales","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Foseco India Limited contributes the lowest sales value at 5.72 Thousand from 1 order."
+  },
+  {
+    "id": 10,
+    "question": "What are the top selling yarn counts by value?",
+    "keywords": ["top selling","yarn count","sales","value","popular products"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the 10s yarn count is the top selling product by value at 8.05 Lakhs, followed by 42s at 4.48 Lakhs and 24s at 3.92 Lakhs."
+  },
+  {
+    "id": 11,
+    "question": "Which yarn count has the highest sales quantity?",
+    "keywords": ["yarn count","highest","quantity","sales"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the 42s yarn count has the highest sales quantity at 3.88 Thousand units."
+  },
+  {
+    "id": 12,
+    "question": "What is the sales value of 30s yarn count?",
+    "keywords": ["30s","yarn","sales","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the 30s yarn count has generated a sales value of 2.04 Lakhs from 700 units."
+  },
+  {
+    "id": 13,
+    "question": "What is the total number of local orders?",
+    "keywords": ["local","orders","region","count"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, there are 10 local sale orders recorded."
+  },
+  {
+    "id": 14,
+    "question": "How many buyers contributed to the total sales?",
+    "keywords": ["buyers","count","total","sales","contribution"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 7 buyers contributed to the overall sales value."
+  },
+  {
+    "id": 15,
+    "question": "Which buyers together contribute more than 40% of total sales?",
+    "keywords": ["buyers","combined","percentage","contribution"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited and Ambika Cotton Mills together contribute approximately 45.3% of the total sales value."
+  },{
+    "id": 17,
+    "question": "What is the total invoice value for the selected financial year?",
+    "keywords": ["total","invoice","value","financial year","summary"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total invoice value is 23.45 Lakhs across 36 invoices."
+  },
+  {
+    "id": 18,
+    "question": "What is today's invoice value and count?",
+    "keywords": ["today","invoice","value","count","daily"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, today's invoice value is 0.00 with 0 invoices generated."
+  },
+  {
+    "id": 19,
+    "question": "What is the invoice value for this month?",
+    "keywords": ["this month","invoice","value","monthly"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the invoice value for the current month is 15.74 Lakhs with 0 invoices recorded so far."
+  },
+  {
+    "id": 20,
+    "question": "How many total invoices were generated?",
+    "keywords": ["total","invoices","count","generated"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 36 invoices were generated."
+  },
+  {
+    "id": 21,
+    "question": "What is the total value of direct invoices?",
+    "keywords": ["direct","invoice","value","type"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, direct invoices amount to 14.05 Lakhs across 16 invoices."
+  },
+  {
+    "id": 22,
+    "question": "What is the total value of order-based invoices?",
+    "keywords": ["order","invoice","value","type"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, order-based invoices amount to 7.28 Lakhs across 8 invoices."
+  },
+  {
+    "id": 23,
+    "question": "What is the total value of waste invoices?",
+    "keywords": ["waste","invoice","value","type"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, waste invoices amount to 2.12 Lakhs across 12 invoices."
+  },
+  {
+    "id": 24,
+    "question": "Who is the top buyer based on invoice value?",
+    "keywords": ["top","buyer","invoice","value","highest"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, AARTHI TEXTILES LIMITED is the top buyer with 4 invoices totaling 6.70 Lakhs."
+  },
+  {
+    "id": 25,
+    "question": "Which buyer has generated the highest number of invoices?",
+    "keywords": ["buyer","highest","invoice","count"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, BANNARI AMMAN SPINNING MILLS has generated the highest number of invoices with 12 invoices totaling 2.51 Lakhs."
+  },
+  {
+    "id": 26,
+    "question": "Who is the second highest buyer by invoice value?",
+    "keywords": ["second","highest","buyer","invoice","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, ARMSTRONG SPINNING MILLS is the second highest buyer with 2 invoices totaling 2.75 Lakhs."
+  },
+  {
+    "id": 27,
+    "question": "Which buyer contributes the lowest invoice value among the top 10?",
+    "keywords": ["lowest","buyer","invoice","value","top 10"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, CHARLLES TRADERS contributes the lowest invoice value among the top 10 buyers with 1 invoice totaling 44.10 Thousand."
+  },
+  {
+    "id": 28,
+    "question": "How many invoices are currently pending versus cleared?",
+    "keywords": ["pending","cleared","paid","unpaid","invoice","status"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the paid and unpaid invoice distribution varies month-wise, with noticeable pending volumes in January and September compared to other months."
+  },
+  {
+    "id": 29,
+    "question": "Which month recorded the highest pending invoices?",
+    "keywords": ["month","highest","pending","invoice"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, September recorded the highest number of pending invoices, followed by January."
+  },
+  {
+    "id": 30,
+    "question": "What percentage of total invoice value comes from direct invoices?",
+    "keywords": ["percentage","direct","invoice","contribution"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, direct invoices contribute approximately 59.9% of the total invoice value."
+  },
+  {
+    "id": 31,
+    "question": "What is the concentration risk among top buyers?",
+    "keywords": ["buyer","concentration","risk","dependency","invoice"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the top three buyers together contribute a significant share of invoice value, indicating moderate revenue concentration in key spinning customers."
+  },
+  {
+    "id": 32,
+    "question": "What is the total raw material purchase value?",
+    "keywords": ["total","raw material","purchase","value","summary"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total raw material purchase value is 17.11 Crores across 24 purchase orders."
+  },
+  {
+    "id": 33,
+    "question": "How many total purchase orders were generated?",
+    "keywords": ["purchase order","total","count","PO"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 24 purchase orders were generated."
+  },
+  {
+    "id": 34,
+    "question": "What is the total value of purchase orders versus direct purchases?",
+    "keywords": ["purchase order","direct purchase","comparison","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, purchase orders amount to 6.15 Crores across 24 entries, while direct purchases total 21.03 Lakhs across 17 entries."
+  },
+  {
+    "id": 35,
+    "question": "How many suppliers are associated with raw material purchases?",
+    "keywords": ["supplier","count","raw material","vendors"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, raw material purchases were made from 11 suppliers."
+  },
+  {
+    "id":36,
+    "question": "How many distinct raw material products were purchased?",
+    "keywords": ["products","raw material","count","items"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 3 raw material products were purchased."
+  },
+  {
+    "id": 37,
+    "question": "Which warehouse holds the highest raw material purchase value?",
+    "keywords": ["warehouse","highest","raw material","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, RM COTTON WAREHOUSE holds the highest raw material value at 12.52 Crores, followed by RM WAREHOUSE at 4.58 Crores."
+  },
+  {
+    "id": 38,
+    "question": "Which raw material has the highest spend value?",
+    "keywords": ["highest","spend","raw material","value wise"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Cotton has the highest spend value at 15.28 Crores, followed by Viscose at 1.41 Crores and Polyester at 41.23 Lakhs."
+  },
+  {
+    "id": 39,
+    "question": "Which raw material is most frequently purchased by quantity?",
+    "keywords": ["frequently purchased","quantity","raw material","top"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Cotton is the most frequently purchased raw material with 4.85 Thousand units, followed by Viscose at 350 units and Polyester at 100 units."
+  },
+  {
+    "id": 40,
+    "question": "Who is the top supplier by purchase value?",
+    "keywords": ["top","supplier","purchase","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, DHANISH COTTON MILLS is the top supplier with purchases totaling 2.89 Crores."
+  },
+  {
+    "id": 41,
+    "question": "Who is the second highest supplier by purchase value?",
+    "keywords": ["second","supplier","highest","purchase","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, DHARANI COTTON MILLS ranks second with purchases totaling 2.06 Crores."
+  },
+  {
+    "id": 42,
+    "question": "What is the concentration risk among top raw material suppliers?",
+    "keywords": ["supplier","concentration","risk","dependency","analysis"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, the top five suppliers contribute a significant portion of the total 17.11 Crores spend, indicating moderate procurement concentration risk in cotton sourcing."
+  },
+  {
+    "id": 43,
+    "question": "Which month recorded the highest raw material spending?",
+    "keywords": ["month","highest","raw material","spend","monthly"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, September recorded the highest raw material spending, followed by October based on the monthly trend chart."
+  },
+  {
+    "id": 44,
+    "question": "Are there any purchases recorded today?",
+    "keywords": ["today","purchase","orders","amount"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, there are no purchases recorded today, with orders: 0 and amount: 0.00."
+  },
+  {
+    "id": 45,
+    "question": "What percentage of total raw material spend is on Cotton?",
+    "keywords": ["percentage","cotton","raw material","spend"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, Cotton accounts for the majority of the 17.11 Crores total raw material spend, contributing approximately 89% of total procurement value."
+  },
+  {
+    "id": 46,
+    "question": "How does warehouse-wise allocation compare in terms of value?",
+    "keywords": ["warehouse wise","allocation","comparison","value"],
+    "insight": "For the period 01-04-2025 to 31-03-2026, RM COTTON WAREHOUSE holds nearly three times the value of RM WAREHOUSE, indicating centralized cotton storage dominance."
+  },
+  {
+    "id": 47,
+    "question": "What is the total stock quantity and value?",
+    "keywords": ["total","stock","quantity","amount","summary"],
+    "insight": "The total stock quantity is 92.41 Lakhs with a total stock value of 749.20 Crores."
+  },
+  {
+    "id": 48,
+    "question": "What is the total raw material stock quantity and value?",
+    "keywords": ["raw material","stock","total","quantity","amount"],
+    "insight": "The total raw material stock is 7.96 Thousand quantity valued at 69.17 Crores."
+  },
+  {
+    "id": 49,
+    "question": "How much raw material stock is currently in hand?",
+    "keywords": ["raw material","in hand","stock","quantity","value"],
+    "insight": "Raw material stock in hand is 7.91 Thousand quantity valued at 69.17 Crores."
+  },
+  {
+    "id": 50,
+    "question": "What is the total yarn stock value?",
+    "keywords": ["yarn","stock","total","value"],
+    "insight": "The total yarn stock in hand is 209.75 quantity valued at 39.82 Crores."
+  },
+  {
+    "id": 51,
+    "question": "What is the total cone stock value?",
+    "keywords": ["cone","stock","value","total"],
+    "insight": "The total cone stock in hand is 880.47 quantity valued at 7.98 Crores."
+  },
+  {
+    "id": 52,
+    "question": "What is the total waste stock quantity and value?",
+    "keywords": ["waste","stock","quantity","value"],
+    "insight": "The total waste stock in hand is 48.78 quantity with no monetary value recorded."
+  },
+  {
+    "id": 53,
+    "question": "What is the total stores stock value?",
+    "keywords": ["stores","stock","total","value"],
+    "insight": "The total stores stock in hand is 1.08 Lakhs quantity valued at 632.23 Crores."
+  },
+  {
+    "id": 54,
+    "question": "Which fiber holds the highest raw material stock quantity?",
+    "keywords": ["fiber","raw material","highest","quantity"],
+    "insight": "Cotton holds the highest raw material stock with 61.98 Lakhs quantity valued at 53.46 Crores."
+  },
+  {
+    "id": 55,
+    "question": "What is the stock value of Polyester and Viscose?",
+    "keywords": ["polyester","viscose","stock","value"],
+    "insight": "Polyester stock stands at 8.96 Lakhs quantity valued at 8.02 Crores, while Viscose stock is 8.20 Lakhs quantity valued at 7.69 Crores."
+  },
+  {
+    "id": 56,
+    "question": "Which warehouse holds the highest raw material stock value?",
+    "keywords": ["warehouse","highest","raw material","stock","value"],
+    "insight": "RM P/V WAREHOUSE holds the highest raw material stock value at approximately 33.90 Crores, followed by RM COTTON WAREHOUSE at approximately 30.94 Crores."
+  },
+  {
+    "id": 57,
+    "question": "What is the total raw material stock across all warehouses?",
+    "keywords": ["total","raw material","warehouse wise","stock"],
+    "insight": "The total raw material stock across all warehouses is 79,14,185.763 kg valued at approximately 69.16 Crores."
+  },
+  {
+    "id": 58,
+    "question": "Who is the top supplier by raw material stock quantity?",
+    "keywords": ["supplier","raw material","highest","stock","quantity"],
+    "insight": "BHARANI COTTON MILLS holds the highest raw material stock quantity at 14.07 Lakhs valued at 10.81 Crores."
+  },
+  {
+    "id": 59,
+    "question": "Which supplier contributes the highest stock value?",
+    "keywords": ["supplier","highest","stock","value"],
+    "insight": "DURAIRAJ COTTON MILLS contributes the highest stock value at 11.62 Crores from 11.37 Lakhs quantity."
+  },
+  {
+    "id": 60,
+    "question": "Which agent manages the highest raw material stock?",
+    "keywords": ["agent","raw material","highest","stock"],
+    "insight": "GURUDEV INDUSTRIES manages the highest raw material stock at 19.70 Lakhs quantity valued at 16.22 Crores."
+  },
+  {
+    "id": 61,
+    "question": "What percentage of total stock value is contributed by stores?",
+    "keywords": ["percentage","stores","stock","value","contribution"],
+    "insight": "Stores stock contributes the majority of total stock value at 632.23 Crores out of 749.20 Crores, accounting for over 84% of total inventory value."
+  },
+  {
+    "id": 62,
+    "question": "Is there any raw material stock under WIP?",
+    "keywords": ["raw material","WIP","stock","status"],
+    "insight": "Raw material WIP quantity is recorded at 78.96 with no associated stock value."
+  },
+  {
+    "id": 63,
+    "question": "What is the concentration risk in raw material stock?",
+    "keywords": ["raw material","concentration","risk","analysis"],
+    "insight": "Cotton dominates the raw material inventory, contributing the majority of both quantity and value, indicating high dependency on cotton-based procurement."
+  },
+  {
+    "id": 64,
+    "question": "What is the gross profit for the financial year?",
+    "keywords": ["gross profit","profit overview","financial year","total"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the gross profit recorded is 0.00."
+  },
+  {
+    "id": 65,
+    "question": "What is the net profit for the financial year?",
+    "keywords": ["net profit","profit overview","financial year","total"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the net profit recorded is 0.00."
+  },
+  {
+    "id": 66,
+    "question": "What is the revenue for this month?",
+    "keywords": ["revenue","this month","monthly income"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the revenue for this month is 0.00."
+  },
+  {
+    "id": 67,
+    "question": "What was the revenue for the previous month?",
+    "keywords": ["revenue","previous month","prev month","monthly comparison"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the revenue for the previous month is 0.00."
+  },
+  {
+    "id": 68,
+    "question": "What is the expense for this month?",
+    "keywords": ["expense","this month","monthly expense"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the expense for this month is 0.00."
+  },
+  {
+    "id": 69,
+    "question": "What was the expense for the previous month?",
+    "keywords": ["expense","previous month","prev month","monthly comparison"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the expense for the previous month is 0.00."
+  },
+  {
+    "id": 70,
+    "question": "What is the total amount received through fund transfer?",
+    "keywords": ["fund transfer","payment gateway","received","income"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the amount received through Fund Transfer is 15.87 Lakhs."
+  },
+  {
+    "id": 71,
+    "question": "What is the total amount received through cash?",
+    "keywords": ["cash","payment gateway","received","income"],
+    "insight": "For the period 01-Apr-2025 to 31-Mar-2026, the amount received through Cash is 9.40 Lakhs."
+  }
+]
