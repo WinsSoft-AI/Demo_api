@@ -3,43 +3,43 @@
     "id": 1,
     "question": "What is today's total sale order value?",
     "keywords": ["today","sale","order","value","daily","sales"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, the total sale order value recorded for today is 0.00."
+    "insight": "The total sale order value recorded for today is 4.21 Lakhs."
   },
   {
     "id": 2,
     "question": "What is the total sale order value for this month?",
     "keywords": ["this month","sale","order","value","monthly","sales"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, the total sale order value for the current month is 0.00."
+    "insight": "The total sale order value for the current month is 4.21 Lakhs."
   },
   {
     "id": 3,
     "question": "How has sales performance changed compared to last month?",
     "keywords": ["sales","dropped","last month","comparison","performance"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, sales have dropped by 0% compared to last month, indicating no change in performance."
+    "insight": "The sales have increased by 100% compared to last month, indicating no change in performance."
   },
   {
     "id": 4,
     "question": "What is the total sales value for the selected financial year?",
     "keywords": ["financial year","total sales","value","annual","summary"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, the total sales value is 19.97 Lakhs."
+    "insight": "For the period 01-04-2025 to 31-03-2026, the total sales value is 24.18 Lakhs."
   },
   {
     "id": 5,
     "question": "Which country contributes the highest sales value?",
     "keywords": ["country","highest","sales","region wise"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, India contributes 100% of the total sales value amounting to 19.97 Lakhs."
+    "insight": "For the period 01-04-2025 to 31-03-2026, India contributes 100% of the total sales value amounting to 24.18 Lakhs."
   },
   {
     "id": 6,
     "question": "Who is the top buyer based on sales value?",
     "keywords": ["top","buyer","sales","value","highest"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited is the top buyer contributing 25.0% of total sales with a value of 4.99 Lakhs across 2 orders."
+    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited is the top buyer contributing 20.6% of total sales with a value of 4.99 Lakhs across 2 orders."
   },
   {
     "id": 7,
     "question": "Who is the second top buyer based on sales value?",
     "keywords": ["second","top","buyer","sales","value"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, Ambika Cotton Mills is the second top buyer contributing 20.3% of total sales with 4.06 Lakhs across 2 orders."
+    "insight": "For the period 01-04-2025 to 31-03-2026, Ambika Cotton Mills is the second top buyer contributing 16.8% of total sales with 4.06 Lakhs across 2 orders."
   },
   {
     "id": 8,
@@ -57,7 +57,7 @@
     "id": 10,
     "question": "What are the top selling yarn counts by value?",
     "keywords": ["top selling","yarn count","sales","value","popular products"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, the 10s yarn count is the top selling product by value at 8.05 Lakhs, followed by 42s at 4.48 Lakhs and 24s at 3.92 Lakhs."
+    "insight": "For the period 01-04-2025 to 31-03-2026, the 10s yarn count is the top selling product by value at 11.51 Lakhs, followed by 42s at 4.48 Lakhs and 24s at 3.92 Lakhs."
   },
   {
     "id": 11,
@@ -75,19 +75,19 @@
     "id": 13,
     "question": "What is the total number of local orders?",
     "keywords": ["local","orders","region","count"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, there are 10 local sale orders recorded."
+    "insight": "For the period 01-04-2025 to 31-03-2026, there are 13 local sale orders recorded."
   },
   {
     "id": 14,
     "question": "How many buyers contributed to the total sales?",
     "keywords": ["buyers","count","total","sales","contribution"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 7 buyers contributed to the overall sales value."
+    "insight": "For the period 01-04-2025 to 31-03-2026, a total of 10 buyers contributed to the overall sales value."
   },
   {
     "id": 15,
-    "question": "Which buyers together contribute more than 40% of total sales?",
+    "question": "Which buyers together contribute more than 30% of total sales?",
     "keywords": ["buyers","combined","percentage","contribution"],
-    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited and Ambika Cotton Mills together contribute approximately 45.3% of the total sales value."
+    "insight": "For the period 01-04-2025 to 31-03-2026, Aarthi Textiles Limited and Ambika Cotton Mills together contribute approximately 37.4% of the total sales value."
   },{
     "id": 17,
     "question": "What is the total invoice value for the selected financial year?",

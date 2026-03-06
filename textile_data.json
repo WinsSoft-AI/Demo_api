@@ -383,8 +383,6 @@
         "keywords": ["zero", "invoiced", "amount", "shipped", "orders"],
         "insight": "Yes, the Sample Order from TDL Textiles has a shipped status but shows zero invoiced amount and zero profit."
     },
-
-    
    {
         "id": 57,
         "question": "What are the top selling products by value?",

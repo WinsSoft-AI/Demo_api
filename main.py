@@ -260,7 +260,7 @@ async def process_query(request: QueryRequest):
 
     return QueryResponse(
         success=False,
-        insight="I need a bit more clarity. Do you mean sales, manufacturing, stock, MIS, or budget?",
+        insight="I need a bit more clarity. Do you mean sales, Purchase, stock, MIS, or budget?",
         debug_keywords=list(user_keywords)
     )
 
